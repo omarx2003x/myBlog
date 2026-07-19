@@ -8,7 +8,7 @@ description = 'how to make a blog website with Hugo'
 
 - This article explains the steps of  how to make your own blog website using [hugo](https://gohugo.io/) static site generator,
  To make a website, there is an overwhelming number of technologies and tools to choose from, but who doesn't like the free & easy option right ?.
-- I chose hugo for it’s simplicity and minimal learning curve , it serves it’s intended purpose to simplify the process of making and maintaining new static sites.
+- I chose Hugo for it’s simplicity and minimal learning curve , it serves it’s intended purpose to simplify the process of making and maintaining new static sites.
 - Before we begin let me clarify what's exactly the difference between a [static and a dynamic website](https://www.geeksforgeeks.org/websites-apps/static-vs-dynamic-website/).
 
 > Essentially a static website is a collection of web pages that are fixed (static), and they don't change according to a user or a database (if any), requiring minimal interaction between the server and client, thus resulting in more speed.
@@ -55,7 +55,7 @@ description = 'how to make a blog website with Hugo'
 
 
 ## Installing Hugo
- - installing Hugo is as simple as running one command, depedning on your linux distro (or package manager).
+ - installing Hugo is as simple as running one command, depending on your linux distro (or package manager).
 
 {{< tabs >}}
 
@@ -81,7 +81,7 @@ description = 'how to make a blog website with Hugo'
 ## Choose a theme
 - it  always feels good to have overwhelming amount of [options](https://themes.gohugo.io/) (or does it?).
 - let me tell you about my theme selection criteria. 
-	1. doctumentation.
+	1. documentation.
 
 		a good theme must have a coherent &  concise documentation.
 	2. support.
@@ -92,7 +92,7 @@ description = 'how to make a blog website with Hugo'
 		your theme has to be fully functional and be appealing to the user.
 	4. customizability.
 
-		your theme better be easily cusomizable to suite your preferences and needs.
+		your theme better be easily customizable to suite your preferences and needs.
 
 
 {{< alert >}} make sure to check your selected theme's documentation before anything {{< /alert >}}
@@ -113,7 +113,7 @@ description = 'how to make a blog website with Hugo'
 
 ---
 
-## Findal words
+## Final words
 
 - throughout this article lots of decisions have been made.
 - we chose use a static website, we chose hugo and markdown for generating our website, and we chose github and netlify for deployment.
